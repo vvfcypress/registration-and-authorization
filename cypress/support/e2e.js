@@ -15,6 +15,8 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
+import './helper'
+import './helpers/productHelper'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
